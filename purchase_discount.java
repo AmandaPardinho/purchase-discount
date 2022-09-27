@@ -13,7 +13,18 @@ public class Main{
 			Calculate the amount to be paid by someone.  
 			The program should read the total amount to be paid and a code identifying 
 			if the client is an employee, a VIP, or an ordinary person.
-		""");
+			""");
+
+		switch (client){
+			case 1:
+				break;
+			case 2:
+				break;
+			case 3:
+				break;
+			default:
+		}
 
 	}
+
 }
