@@ -1,6 +1,6 @@
 # Purchase Discount
 
-![Image](https://img.shields.io/github/license/AmandaPardinho/purchase-discount?logo=MIT&style=for-the-badge)
+![Image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ### Abstract
 On a given purchase, calculate the amount payable after applying the discount.
