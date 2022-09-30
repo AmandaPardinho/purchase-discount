@@ -34,17 +34,17 @@ public class Main{
 			case 1:
 				discount = discountEmploeey;
 				total = purchaseAmount * discountEmploeey;
-				System.out.println(total);
+				System.out.println("The purchase amount is $" + total);
 				break;
 			case 2:
 				discount = discountVip;
 				total = purchaseAmount * discountVip;
-				System.out.println(total);
+				System.out.println("The purchase amount is $" + total);
 				break;
 			case 3:
 				discount = discountOrdinary;
 				total = purchaseAmount;
-				System.out.println(total);
+				System.out.println("The purchase amount is $" + total);
 				break;
 			default:
 				System.out.println("Invalid custumer.");	
